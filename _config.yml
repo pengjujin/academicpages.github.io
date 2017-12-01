@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jimmy(Pengju) Jin"
 title_separator          : "-"
-name                     : &name "Jimmy(Pengju) Jin"
+name                     : &name "Jimmy (Pengju) Jin"
 description              : &description "Robot Perception Engineer at Aurora Innovation"
 url                      : https://pengjujin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Jimmy Jin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CS Master's student at Carnegie Mellon University, interested in research areas related to Computer Vision, Reinforcement Learning, and Robotics"
   location         : "Pittsburgh"
   employer         : "Aurora Innovation"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "pengjujin@gmail.com"
   uri              :
   bitbucket        :
