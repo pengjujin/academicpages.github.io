@@ -1,0 +1,14 @@
+---
+title: "Teaching Assistant"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/t_213
+venue: "Carnegie Mellon University, RI"
+date: 2016-09-31
+location: "Pittsburgh, PA"
+---
+
+TA for Feedback Control Systems (16-299)
+
+Assignment Grader
+======
