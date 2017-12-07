@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Adaptation in Robot Perception and Learning"
 collection: publications
-permalink: /publications/masterthesis
+permalink: /publications/thesis
 excerpt: 'This is my Master's thesis'
 date: 2017-12-11
 venue: 'Computer Science Department, Carnegie Mellon University'
