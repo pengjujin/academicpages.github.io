@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/pengjujin"
   foursquare       :
   github           : "pengjujin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jimmy-jin-bb000487/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -216,6 +216,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

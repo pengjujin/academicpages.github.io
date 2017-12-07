@@ -1,7 +1,8 @@
 ---
 title: 'C0 Complier'
-date: 2016-12-14
+collection: projects
 permalink: /projects/complier
+date: 2016-12-14
 tags:
   - school projects
 ---

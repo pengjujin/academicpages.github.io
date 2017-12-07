@@ -9,6 +9,6 @@ author_profile: true
 
 Check out various other projects I have done over the years:
 
-{% for post in site.projects reversed %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
