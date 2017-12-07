@@ -1,11 +1,11 @@
 ---
 title: "Sensor Fusion for Fiducial Tags: Highly Robust Pose Estimation from Single Frame RGBD"
 collection: publications
-permalink: /publications/iros_aptags
+permalink: /publications/iros
 excerpt: 'This paper presents a method for sensor fusion to improve the robustness of pose estimation for fiducial tags.'
 date: 2017-9-27
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
-<!-- paperurl: 'http://pengjujin.github.io/files/iros_aptag.pdf' -->
+paperurl: 'http://pengjujin.github.io/files/iros_aptag.pdf'
 citation: 'Pengju Jin, Pyry Matikainen, Siddhartha S. Srinivasa (2017). &quot; Sensor Fusion for Fiducial Tags: Highly Robust Pose Estimation from Single Frame RGBD. &quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>.'
 ---
 

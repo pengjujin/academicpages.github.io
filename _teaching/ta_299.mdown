@@ -2,7 +2,7 @@
 title: "16-299 Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/t_213
+permalink: /teaching/t_299
 venue: "Carnegie Mellon University, RI"
 date: 2016-09-31
 location: "Pittsburgh, PA"
