@@ -24,7 +24,7 @@ Industrial experience
 * Summer 2016: Software Engineer Intern
   * Google
   * Team: Photos
-  * Project: Unsurprivised learning algorithms for improving Google photo text-image search.
+  * Project: Unsupervised learning algorithms for improving Google photo text-image search.
 
 * Summer 2017: Research Intern
   * Apple

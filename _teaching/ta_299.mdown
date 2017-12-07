@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "16-299 Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/t_213

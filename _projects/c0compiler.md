@@ -1,7 +1,7 @@
 ---
 title: 'C0 Complier'
-date: 2012-08-14
-permalink: /projects/
+date: 2016-12-14
+permalink: /projects/complier
 tags:
   - school projects
 ---

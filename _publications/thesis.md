@@ -6,7 +6,7 @@ excerpt: 'This paper presents a method for sensor fusion to improve the robustne
 date: 2017-12-11
 venue: 'Computer Science Department, Carnegie Mellon University'
 paperurl: 'http://pengjujin.github.io/files/thesis.pdf'
-citation: 'Pengju Jin (2017). &quot; Uncertainty Adaptation in Robot Perception and Learning.</i>.'
+citation: 'Pengju Jin (2017). &quot; Uncertainty Adaptation in Robot Perception and Learning.'
 ---
 This is my thesis
 
