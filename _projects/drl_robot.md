@@ -39,6 +39,7 @@ the target and joints. The action space consisted
 of two continuous values, each between -1 and 1,
 corresponding to the torque on the two joints of
 the manipulator arm.
+![Method](/images/drl_robot/simulation.png)
 
 Method
 ======
@@ -54,5 +55,9 @@ deterministic policy search. During this phase, our agent was modeled
 using a two-layer feedforward neural network with first layer of size 400
 and second layer of size 300. This agent was again trained until
 convergence, which took approximately 1,000,000 interactions.
+![Method](/images/drl_robot/method.png)
 
+Results:
+======
+Here we show the training results of our DDPG network.
 ![Performance Result](/images/drl_robot/presentation_plot.jpg)
