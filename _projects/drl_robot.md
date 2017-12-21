@@ -66,4 +66,5 @@ variance in input timing make it difficult for our agent to
 succeed consistently. The deep deterministic policy gradient
 helped the policy become more flexible in cases that the
 demonstrations failed to cover.
+
 ![Performance Result](/images/drl_robot/presentation_plot.jpg)
