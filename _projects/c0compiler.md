@@ -7,13 +7,8 @@ tags:
   - school projects
 ---
 
-This is the c0 compiler
+A simple, strongly typed, and fully functional C compiler.
 
-Headings are cool
+Compiler
 ======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
