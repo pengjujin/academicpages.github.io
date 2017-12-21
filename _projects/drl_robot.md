@@ -59,5 +59,11 @@ convergence, which took approximately 1,000,000 interactions.
 
 Results:
 ======
-Here we show the training results of our DDPG network.
+Here we show the training results of our DDPG network. 
+Training on the initial policy from human demonstration
+provided a stable baseline approach. However, the small
+variance in input timing make it difficult for our agent to
+succeed consistently. The deep deterministic policy gradient
+helped the policy become more flexible in cases that the
+demonstrations failed to cover.
 ![Performance Result](/images/drl_robot/presentation_plot.jpg)
