@@ -32,7 +32,7 @@ arm to pick up the food in a controlled fashion.
 
 Simulation
 ======
-![Method](/images/drl_robot/simulation.png =590x510)
+![Method](/images/drl_robot/simulation.png)
 Our environment was developed in the MuJuCo
 simulator.The state space consisted of 33
 features, including the position and velocity of
