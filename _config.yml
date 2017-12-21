@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jimmy(Pengju) Jin"
+title                    : "Jimmy (Pengju) Jin"
 title_separator          : "-"
 name                     : &name "Jimmy (Pengju) Jin"
 description              : &description "Robot Perception Engineer at Aurora Innovation"
@@ -173,6 +173,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
