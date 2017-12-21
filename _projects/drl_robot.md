@@ -32,6 +32,7 @@ arm to pick up the food in a controlled fashion.
 
 Simulation
 ======
+![Method](/images/drl_robot/simulation.png = =590x510)
 Our environment was developed in the MuJuCo
 simulator.The state space consisted of 33
 features, including the position and velocity of
@@ -39,10 +40,10 @@ the target and joints. The action space consisted
 of two continuous values, each between -1 and 1,
 corresponding to the torque on the two joints of
 the manipulator arm.
-![Method](/images/drl_robot/simulation.png)
 
 Method
 ======
+![Method](/images/drl_robot/method.png)
 We trained our agent using deep deterministic policy search, guided by
 imitation learning. First, we manually controlled the simulated arm, and
 demonstrated 10 trials that obtained the desired behavior. We then trained
@@ -55,7 +56,6 @@ deterministic policy search. During this phase, our agent was modeled
 using a two-layer feedforward neural network with first layer of size 400
 and second layer of size 300. This agent was again trained until
 convergence, which took approximately 1,000,000 interactions.
-![Method](/images/drl_robot/method.png)
 
 Results:
 ======
